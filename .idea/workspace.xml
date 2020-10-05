@@ -16,11 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cdd12bd-330d-405e-8c25-8d1f716e73ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demofile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan.html" afterDir="false" />
-    </list>
+    <list default="true" id="4cdd12bd-330d-405e-8c25-8d1f716e73ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +62,7 @@
       <updated>1601829407865</updated>
       <workItem from="1601829409315" duration="3333000" />
       <workItem from="1601898431342" duration="2802000" />
-      <workItem from="1601915968942" duration="4270000" />
+      <workItem from="1601915968942" duration="4601000" />
     </task>
     <servers />
   </component>
