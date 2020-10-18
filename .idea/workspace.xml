@@ -16,22 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cdd12bd-330d-405e-8c25-8d1f716e73ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bttaobangcoban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bttaobangnangcao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bttaobangnangcao2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/formcoban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newtable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q123.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taobang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taobang2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wtf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/456.txt" beforeDir="false" afterPath="$PROJECT_DIR$/456.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/demofile.html" afterDir="false" />
-    </list>
+    <list default="true" id="4cdd12bd-330d-405e-8c25-8d1f716e73ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +72,7 @@
       <workItem from="1602312806703" duration="259000" />
       <workItem from="1602341274725" duration="6000" />
       <workItem from="1602400050344" duration="862000" />
-      <workItem from="1603041293042" duration="327000" />
+      <workItem from="1603041293042" duration="632000" />
     </task>
     <servers />
   </component>
